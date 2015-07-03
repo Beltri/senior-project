@@ -23,9 +23,6 @@ Referencia: https://git-scm.com/book/es/v1/Empezando-Fundamentos-de-Git
 ##Instalar GIT
 https://git-scm.com/book/es/v1/Empezando-Instalando-Git
 
-##Estudiar npm
-
-
 ## Creació nou repositori
 
 Per crear un nou repositori ho faig desde Cmder.
